@@ -1,4 +1,4 @@
-# dev22-Asynchrone_Programmierung_in_Rust
+# Asynchrone Programmierung in Rust
 
 Quellcode zum Artikel von Stefan Baumgartner
 
